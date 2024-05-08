@@ -14,7 +14,7 @@ html,body{
   font-style: normal;
 }
 .hero_section{
-    background-image:url('developer.png');
+    background-image:url("images\developer.png");
    min-height: 100vh;
    background-position: center;
    background-size: cover;
